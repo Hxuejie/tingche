@@ -1,0 +1,78 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	min-width: 842px;
+	height: 595px;
+}
+.textCenter {
+	text-align: center;
+}
+.bg {
+	position: absolute;
+}
+.card {
+	width: 842px;
+	height: 302px;
+	margin: auto;
+}
+.cards {
+	width: 842px;
+	margin: auto;
+}
+.tel{
+	border: 1px solid #ccc; 
+	padding: 7px 0px;
+	border-radius: 3px; /*css3属性IE不支持*/
+	padding-left:5px; 
+}
+footer {
+	position: fixed;
+	bottom: 10px;
+	width: 100%;
+}
+.copyright{
+	font-family: arial;
+	font-size: 12px;
+}
+.email{
+	font-family: arial;
+	font-size: 14px;
+}
+.button{
+	border: 1px solid #ccc; 
+	padding: 7px 5px;
+	border-radius: 3px; /*css3属性IE不支持*/
+}
+.nums {
+	left: 210px;
+	position: relative;
+	top: 188px;
+	display: inline;
+}
+.num{
+	font-size: 90px;
+	font-family: SimHei;
+	font-weight: bold;
+	width: 53px;
+	height: 81px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 81px;
+	margin-right: 2px;
+	color: black;
+}
+
+.colorpicker{
+	width: 50px;
+	border: 1px solid #ccc; 
+	padding: 7px 5px;
+	border-radius: 3px; /*css3属性IE不支持*/
+}
+
+.beian {
+	font-family: arial;
+	font-size: 12px;
+}
